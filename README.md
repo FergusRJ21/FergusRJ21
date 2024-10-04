@@ -1,4 +1,4 @@
-- 👋 Olá, sou @FergusRJ21
+- 👋 Olá, sou @Fergus
 - 👀 Sou estudante em Análise e Desenvolvimento de Sistemas
 - 📚 Operando como Freelance em Front-End (HTML5, CSS, JavaScript, UI|UX Designer)
 - 🎯 Em progresso para Developer System FullStack
