@@ -1,10 +1,9 @@
 - 👋 Olá, sou @FergusRJ21
-- 👀 Sou estudante de Analise e Desenvolvimento de Sistemas pela Descomplica+UniAmerica.
-- 🌱 Atualmente estou aprendendo HTML5, CSS, JavaScript. Foco direcionado para desenvolvimento em Front-End.
-- 🎯 Almejo atuar como Freelancer, para aplicar os conhecimento como desenvolvedor Front-End, focando em produção de web sites.
-- 📫 Formas de contatar, através do meu e-mail pessoal para entrarem em contato comigo através do GitHub: francisneirodrigues01@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Curiosidade: Amo fazer musculação e cardio, gosto de estudar sempre que tenho tempo livre para me concentra. 
+- 👀 Sou estudante em Análise e Desenvolvimento de Sistemas
+- 📚 Operando como Freelance em Front-End (HTML5, CSS, JavaScript, UI|UX Designer)
+- 🎯 Em progresso para Developer System FullStack
+- 📫 Formas de contatar, através do meu e-mail: francisneirodrigues01@gmail.com
+
 
 <!---
 FergusRJ21/FergusRJ21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
