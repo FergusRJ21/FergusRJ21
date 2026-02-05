@@ -2,7 +2,7 @@
 
 - 📚 Estudante em Análise e Desenvolvimento de Sistemas
 - 🎯 Em progresso para Developer System FullStack
-- 📫 Formas de contatar, através do meu e-mail: francisnei.estudo@gmail.com
+
 
 
 <!---
