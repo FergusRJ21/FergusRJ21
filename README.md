@@ -1,7 +1,5 @@
-- 👋 Olá !!! 
-
-- 📚 Estudante em Análise e Desenvolvimento de Sistemas
-- 🎯 Em progresso para Developer System FullStack
+- 📚 Acadêmico em Desenvolvimento de Sistemas
+- 🎯 Em progresso para Software Engineering 
 
 
 
