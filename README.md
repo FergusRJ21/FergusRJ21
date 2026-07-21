@@ -6,7 +6,7 @@
 
 ## ✨ Sobre o meu Perfil
 
-* **Status atual:** Acadêmico em Desenvolvimento de Sistemas 📚
+* **Status atual:** Acadêmico em Ciência da Computação 📚
 * **Missão principal:** Em progresso para me tornar Engenheiro de Software 🚀
 * **Interesses:** Criar soluções inovadoras, automatização e explorar novas tecnologias 💡
 * **Pronto para:** Colaborar em projetos e evoluir meu código diariamente 🤝
