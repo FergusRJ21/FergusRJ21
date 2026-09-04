@@ -2,7 +2,7 @@
   <img src="meu-banner.png" alt="Bem-vindo ao meu Sistema" width="100%">
 </p>
 
-<h1 align="center">Desenvolvedor e Engenheiro de Software em Formação 🤖👽</h1>
+<h1 align="center">INFORMATA DA COMPUTARIA 🤖👽</h1>
 
 ## ✨ Sobre o meu Perfil
 
