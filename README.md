@@ -6,6 +6,7 @@
 
 ## ✨ Sobre o meu Perfil
 
+* **Formação atual:** Técnico em Mecânica Industrial 🧰
 * **Status atual:** Acadêmico em Engenharia de Software 📚
 * **Missão principal:** Em progresso para me tornar Engenheiro de Software 🚀
 * **Interesses:** Criar soluções inovadoras, automatização e explorar novas tecnologias 💡
